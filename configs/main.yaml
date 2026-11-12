@@ -1,0 +1,5 @@
+dataset: metr-la
+horizon: 12
+hidden_dim: 64
+heads: 4
+epochs: 60
